@@ -1,10 +1,4 @@
-//
-//  NewRecipeViewController.swift
-//  mymoodandme
-//
-//  Created by Alexander Bakuta on 23/08/2017.
-//  Copyright © 2017 Inteza. All rights reserved.
-//
+
 
 import UIKit
 import RxCocoa
