@@ -1,10 +1,4 @@
-//
-//  FiltersViewController.swift
-//  mymoodandme
-//
-//  Created by Vladislav Dudin on 8/30/17.
-//  Copyright © 2017 Inteza. All rights reserved.
-//
+
 
 import UIKit
 
