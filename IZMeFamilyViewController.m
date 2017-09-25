@@ -1,10 +1,4 @@
-//
-//  IZMeFamilyViewController.m
-//  MediMee
-//
-//  Created by Vladislav Dudin on 12/6/16.
-//  Copyright © 2016 Vladislav Dudin. All rights reserved.
-//
+
 
 #import "IZMeFamilyViewController.h"
 #import "IZBaseViewController+Protected.h"
