@@ -1,10 +1,4 @@
-//
-//  IZHomeViewController.m
-//  MediMee
-//
-//  Created by Vladislav Dudin on 11/22/16.
-//  Copyright © 2016 Vladislav Dudin. All rights reserved.
-//
+
 
 #import "IZHomeViewController.h"
 #import "IZBaseViewController+Protected.h"
