@@ -1,10 +1,3 @@
-//
-//  IZMailManager.m
-//  MediMee
-//
-//  Created by Vladislav Dudin on 1/30/17.
-//  Copyright © 2017 Vladislav Dudin. All rights reserved.
-//
 
 #import "IZMailManager.h"
 
